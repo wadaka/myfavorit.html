@@ -1,0 +1,11 @@
+theme
+僕の好きなもの
+ファイル名
+myfavorite.html
+必須タグ
+title
+h1
+img
+table
+仕様
+youtube動画を１つ以上埋め込む
